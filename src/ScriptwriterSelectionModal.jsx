@@ -47,7 +47,7 @@ const S = {
     fontSize: '14px',
   },
   modalHeader: {
-    background: '#3B5998',
+    background: '#2e7d32',
     color: '#fff',
     padding: '10px 16px',
     borderRadius: '6px 6px 0 0',
